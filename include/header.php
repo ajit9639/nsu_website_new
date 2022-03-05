@@ -288,7 +288,7 @@ margin:3px 0px!important;
       <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
     </div>
 
-    <!-- Header -->
+    <!-- Headerr -->
     <header id="header" class="header">
       <div class="header-top sm-text-center" style="background:#000;">
         <div class="container">
